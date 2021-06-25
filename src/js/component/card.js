@@ -12,9 +12,9 @@ export const Card = props => {
 					className="card-img-top"
 					alt="Image Placeholder"
 				/>
-				<div className="card-body m-0">
-					<h5 className="card-title">{props.title}</h5>
-					<p className="card-text">{props.text}</p>
+				<div className="card-body p-0">
+					<h5 className="card-title pt-2">{props.title}</h5>
+					<p className="card-text pb-2 pl-2 pr-2">{props.text}</p>
 					<div className="card-footer">
 						<a href="#" className="btn btn-primary">
 							Find Out More!

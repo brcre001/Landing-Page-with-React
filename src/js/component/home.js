@@ -29,7 +29,7 @@ export function Home() {
 					<Card
 						title="Lions"
 						imageURL="https://i.picsum.photos/id/1074/5472/3648.jpg?hmac=w-Fbv9bl0KpEUgZugbsiGk3Y2-LGAuiLZOYsRk0zo4A"
-						text="A lioness in her natural habitat"
+						text="A lioness in her natural habitat inspecting her surroundings"
 					/>
 				</div>
 			</div>
