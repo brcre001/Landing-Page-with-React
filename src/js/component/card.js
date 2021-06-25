@@ -12,7 +12,7 @@ export const Card = props => {
 					className="card-img-top"
 					alt="Image Placeholder"
 				/>
-				<div className="card-body">
+				<div className="card-body m-0">
 					<h5 className="card-title">{props.title}</h5>
 					<p className="card-text">{props.text}</p>
 					<div className="card-footer">
