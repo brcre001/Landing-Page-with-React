@@ -4,7 +4,7 @@ import React from "react";
 
 export const Jumbotron = () => {
 	return (
-		<div className="jumbotron">
+		<div className="jumbotron mt-4">
 			<h1 className="display-4">A Warm Welcome!</h1>
 			<p>
 				Lorem Ipsum is simply dummy text of the printing and typesetting
