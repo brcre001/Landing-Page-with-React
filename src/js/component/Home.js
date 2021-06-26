@@ -1,7 +1,8 @@
 import React from "react";
-import { Navbar } from "./navbar.js";
-import { Jumbotron } from "./jumbotron.js";
-import { Card } from "./card.js";
+import { Navbar } from "./Navbar.js";
+import { Jumbotron } from "./Jumbotron.js";
+import { Card } from "./Card.js";
+import { Footer } from "./Footer.js";
 
 // Create your first component
 export function Home() {
@@ -33,6 +34,7 @@ export function Home() {
 					/>
 				</div>
 			</div>
+			<Footer />
 		</div>
 	);
 }
